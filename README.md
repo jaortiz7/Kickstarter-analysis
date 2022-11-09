@@ -13,7 +13,7 @@ We could compared this theater trend shown with other parent category trends to 
 
 
 ### Outcomes Based on Goals
-Wanted to sow the reltionship between percentage of successful, failed, and canceled campaigns and the amount of the goal. The graph below shows that campaigns with a goal of $4,999 or lest have a 70% or higher chance of being successul. It also shows that once the goal is higher than $20,000 the chances of the campaign failing are over 50%.
+Wanted to sow the reltionship between percentage of successful, failed, and canceled campaigns and the amount of the goal. This was done by creating a table with a range of the goals by campaing, then I entered formulas to bring intow my table the count of the successful, failed, and canceled campaings. From that point the percentages were calculated. The graph below shows that campaigns with a goal of $4,999 or lest have a 70% or higher chance of being successul. It also shows that once the goal is higher than $20,000 the chances of the campaign failing are over 50%.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/114612708/200143454-9b2d354f-e5ad-4ab4-92d1-0b0407d26f7b.png)
 
-With this dataset it would have been useful to bring in the month's that these campaings were ran, as it would have made the analysis even more specific. 
+With this dataset that I created it would have been useful to bring in the month's that these campaings were ran, as it would have made the analysis even more specific. 
