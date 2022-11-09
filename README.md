@@ -5,7 +5,7 @@
 ## Analysis and Challenges
 
 ### Outcomes Based on Launch Date
-Wanted to show the relationship between outcomes and launch date by month for the theater kickstarter's. I created a pivot table to show the count of successful, failed, and cancel theater kickstarter's including all the years that data is available for. The graph below shows the failed and canceled outcomes stay flat throught out the year, while the summer month's May, June, and July are the month with the best chance of having a successful theater kicktarter.
+Wanted to show the relationship between outcomes and launch date by month for the theater kickstarter's. I created a pivot table to show the count of successful, failed, and cancel theater kickstarter's including all the years that data is available for. The graph below shows the failed and canceled outcomes stay flat throught out the year, while the summer month's May, June, and July are the month with the best chance of having a successful theater kicktsarter.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/114612708/200143453-6d48c681-7d22-4260-936d-e4c7ef2d685f.png)
 
